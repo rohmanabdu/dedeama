@@ -2,6 +2,8 @@ import requests
 import re
 import os
 import json
+import time
+import random
 
 CONFIG_FILE = "candak.json"
 
@@ -10,14 +12,31 @@ def load_config():
         return json.load(f)
 
 def fetch_playlist(url):
-    headers = {"User-Agent": "Mozilla/5.0"}
-    try:
-        r = requests.get(url, headers=headers, timeout=20)
-        r.raise_for_status()
-        return r.text
-    except Exception as e:
-        print(f"Gagal fetch {url}: {e}")
-        return ""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "*/*",
+        "Referer": "https://bandeltv.xyz/",
+        "Connection": "keep-alive"
+    }
+    
+    # retry 3 kali
+    for attempt in range(1, 4):
+        try:
+            print(f"Fetching: {url} (attempt {attempt}/3)")
+            r = requests.get(url, headers=headers, timeout=60, verify=False)
+            r.raise_for_status()
+            # kadang isinya kosong kalau di-block
+            if len(r.text) < 50:
+                raise Exception(f"Response kosong / diblock: {r.text[:100]}")
+            return r.text
+        except Exception as e:
+            print(f"Gagal fetch {url}: {e}")
+            if attempt < 3:
+                sleep_time = random.randint(3, 7)
+                print(f"Retry dalam {sleep_time} detik...")
+                time.sleep(sleep_time)
+            else:
+                return ""
 
 def parse_m3u(content):
     entries = []
@@ -52,11 +71,9 @@ def classify(entry, config):
     for kw in config["categories"]["upcoming_keywords"]:
         if kw.lower() in text_check:
             return "upcoming"
-    # default anggap live kalau gak ada kategori
     return "live"
 
 def rebuild_extinf(entry, new_group):
-    # ganti group-title lama dengan baru
     if 'group-title="' in entry["extinf"]:
         new_extinf = re.sub(r'group-title="[^"]*"', f'group-title="{new_group}"', entry["extinf"])
     else:
@@ -70,11 +87,12 @@ def main():
     seen_urls = set()
 
     for url in config["sources"]:
-        print(f"Fetching: {url}")
         content = fetch_playlist(url)
         if not content:
             continue
         entries = parse_m3u(content)
+        print(f" -> Dapat {len(entries)} channel dari {url}")
+        time.sleep(2) # kasih jeda biar gak di-rate-limit
         for e in entries:
             if e["url"] in seen_urls:
                 continue
@@ -85,30 +103,22 @@ def main():
                 e["extinf"] = rebuild_extinf(e, config["output_groups"]["live"])
                 live_list.append(e)
             else:
-                # handle custom video untuk upcoming
                 if config["upcoming_custom"]["enabled"]:
-                    if config["upcoming_custom"]["mode"] == "replace_all":
-                        e["url"] = config["upcoming_custom"]["video_url"]
+                    e["url"] = config["upcoming_custom"]["video_url"]
                 e["extinf"] = rebuild_extinf(e, config["output_groups"]["upcoming"])
                 upcoming_list.append(e)
 
-    # Gabungkan
     output_path = config["output_file"]
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
     with open(output_path, 'w', encoding='utf-8') as out:
         out.write("#EXTM3U\n")
         out.write(f"# Total LIVE: {len(live_list)} | UPCOMING: {len(upcoming_list)}\n\n")
-        
         for e in live_list:
-            out.write(e["extinf"] + "\n")
-            out.write(e["url"] + "\n")
-        
+            out.write(e["extinf"] + "\n" + e["url"] + "\n")
         out.write("\n")
-        
         for e in upcoming_list:
-            out.write(e["extinf"] + "\n")
-            out.write(e["url"] + "\n")
+            out.write(e["extinf"] + "\n" + e["url"] + "\n")
 
     print(f"Sukses! File jadi: {output_path} - LIVE: {len(live_list)}, UPCOMING: {len(upcoming_list)}")
 
