@@ -4,40 +4,17 @@
     "https://bandeltv.xyz/sc1980/2025/Kvision/LIVE22.php"
   ],
   "kategori_deteksi": {
-    "live_keywords": ["live now", "live", "sedang tayang"],
-    "upcoming_keywords": ["upcoming", "coming soon", "akan datang"]
+    "live_keywords": ["live now", "live"],
+    "upcoming_keywords": ["upcoming"]
   },
   "kategori_output": {
-    "live": "LIVE EVENT",
-    "upcoming": "LIVE UPCOMING"
+    "live": "LIVE NOW",
+    "upcoming": "UPCOMING"
   },
   "upcoming_edit": {
     "enabled": true,
     "default_video": "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4",
-    "video_custom_per_judul": {
-      "Arsenal vs Chelsea": "https://video-lu-sendiri.com/arsenal.mp4",
-      "Barcelona vs Madrid": "https://video-lu-sendiri.com/elclasico.mp4"
-    }
+    "video_custom_per_judul": {}
   },
-  "output_file": "eusi/listt"
-}
-{
-  "sources": [
-    "https://bandeltv.xyz/2026/vid/New.php",
-    "https://bandeltv.xyz/sc1980/2025/Kvision/LIVE22.php"
-  ],
-  "categories": {
-    "live_keywords": ["live now", "live", "sedang tayang", "now"],
-    "upcoming_keywords": ["upcoming", "coming soon", "akan datang", "belum tayang"]
-  },
-  "output_groups": {
-    "live": "LIVE EVENT",
-    "upcoming": "LIVE UPCOMING"
-  },
-  "upcoming_custom": {
-    "enabled": false,
-    "video_url": "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4",
-    "mode": "replace_all"
-  },
-  "output_file": "eusi/listt"
+  "output_file": "esui/listt"
 }
