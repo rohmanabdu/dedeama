@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://bandeltv.xyz/2026/vid/New.php",
+    "https://bandeltv.xyz/sc1980/2025/Kvision/LIVE22.php"
+  ],
+  "categories": {
+    "live_keywords": ["live now", "live", "sedang tayang", "now"],
+    "upcoming_keywords": ["upcoming", "coming soon", "akan datang", "belum tayang"]
+  },
+  "output_groups": {
+    "live": "LIVE EVENT",
+    "upcoming": "EVENT UPCOMING"
+  },
+  "upcoming_custom": {
+    "enabled": false,
+    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "mode": "replace_all"
+  },
+  "output_file": "playlist/merged.m3u"
+}
