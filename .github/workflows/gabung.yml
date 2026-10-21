@@ -1,0 +1,38 @@
+name: Gabung Pl deama
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *'
+
+concurrency:
+  group: gabung-playlist
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests
+
+      - run: python merge.py
+
+      - name: Push
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@bot.com"
+          git add eusi/
+          git diff --staged --quiet && exit 0
+          git commit -m "update gabungan"
+          git pull --rebase --autostash origin main
+          git push origin main
