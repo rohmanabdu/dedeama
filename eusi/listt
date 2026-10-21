@@ -1,0 +1,18 @@
+#EXTM3U
+# Total LIVE: 0 | UPCOMING: 7
+
+
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/557/825557-SNAPSHOT-m.jpg" ch-number="1",UEFA Champions League 2026/27: Lille vs Galatasaray [21 Oct 2026 23:40 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/584/825584-SNAPSHOT-m.jpg" ch-number="2",UEFA Champions League 2026/27: Como 1907 vs Man United [21 Oct 2026 23:40 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/273/826273-SNAPSHOT-m.jpg" ch-number="5",UEFA Champions League 2026/27: Aston Villa vs Viking [22 Oct 2026 01:55 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/282/826282-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Inter vs Shakhtar [22 Oct 2026 02:00 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=125
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/299/826299-SNAPSHOT-m.jpg" ch-number="2",UEFA Europa League 2026/27: Real Betis vs Feyenoord [22 Oct 2026 02:00 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=126
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/414/826414-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: OK Savingsbank vs Samsung Bluefangs [22 Oct 2026 11:00 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
