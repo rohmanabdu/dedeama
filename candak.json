@@ -13,8 +13,8 @@
   },
   "upcoming_custom": {
     "enabled": false,
-    "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "video_url": "https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4",
     "mode": "replace_all"
   },
-  "output_file": "playlist/merged.m3u"
+  "output_file": "eusi/listt"
 }
