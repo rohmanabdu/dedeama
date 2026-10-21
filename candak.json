@@ -9,7 +9,7 @@
   },
   "output_groups": {
     "live": "LIVE EVENT",
-    "upcoming": "EVENT UPCOMING"
+    "upcoming": "LIVE UPCOMING"
   },
   "upcoming_custom": {
     "enabled": false,
