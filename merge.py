@@ -3,7 +3,7 @@ import re
 import os
 import json
 
-CONFIG_FILE = "config.json"
+CONFIG_FILE = "candak.json"
 
 def load_config():
     with open(CONFIG_FILE, 'r', encoding='utf-8') as f:
