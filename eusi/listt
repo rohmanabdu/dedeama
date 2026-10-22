@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JbZBsPiudzA-ED65iWdRoGYMsvU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390679/932e44.png" group-title="UPCOMING",Moto3 Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (04:55 WIB * 23-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/F4mdkt0xIqAqyy9rPBaZIO7BtkM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390680/d5cd1d.png" group-title="LIVE NOW",Moto2 Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:50 WIB * 23-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyNzk2MDkzfQ.Ze83lkvJh4pKI3Z83FAq5sT7gFJnBOpWGdIcnppeqg8
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/295/827295-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Free Practice 1 [23 Oct 2026 04:55 WIB]
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cwdKBT9MUhFzfpXrmhI5CS45YiE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390681/3770cc.png" group-title="UPCOMING",MotoGP Free Practice 1: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:35 WIB * 23-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/375/827375-SNAPSHOT-m.jpg" ch-number="1",Bundesliga 2025/26: VFB Stuttgart vs Borussia Monchengladbach [24 Oct 2026 01:25 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -8,8 +12,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/913/827913-SNAPSHOT-m.jpg" ch-number="3",LaLiga 2 2026/27: Granada vs Valladolid [24 Oct 2026 01:22 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/532/827532-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Alaves vs Malaga [24 Oct 2026 01:55 WIB]
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/582/827582-SNAPSHOT-m.jpg" ch-number="1",Roshn Saudi League 26/27: Al Faysaly vs Al Nassr [23 Oct 2026 20:25 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/025/827025-SNAPSHOT-m.jpg" ch-number="2",Roshn Saudi League 26/27: Al Ittihad vs Diriyah [23 Oct 2026 22:25 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
