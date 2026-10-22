@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JejT9IeStt7-2L6jVy96BZGnE0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388074/7e7d4a.png" group-title="UPCOMING",Round 1 - BMW Ladies Championship 2026 (09:00 WIB * 22-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JejT9IeStt7-2L6jVy96BZGnE0k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388074/7e7d4a.png" group-title="LIVE NOW",Round 1 - BMW Ladies Championship 2026 (09:00 WIB * 22-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyNzI0MDQwfQ.DS_AFuEuAFKKTmyaYpOCj2YOgkq-YAtDh9zEH1SrFeE
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Kc9Va6gE89i3aJVAEgqh2WIvTgk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387998/b496d6.png" group-title="LIVE NOW",Round of 16 - WTA 250: Kinoshita Group Japan Open 2026 (09:20 WIB * 22-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=20564&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTY0IiwiZXhwIjoxNzkyNzI0MDQwfQ.awvp3YUxPI10F8_m8PInRAF7xqV1cisry0T5MDyomLQ
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yiPmWWqKBkTvPXKG4yCiYWicUnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391013/5e5bb0.png" group-title="UPCOMING",Iva Jovic vs Jasmine Paolini - Round of 16 | WTA 500: BNB Ningbo Open 2026 (12:00 WIB * 22-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/315/826315-SNAPSHOT-m.jpg" ch-number="1",UEFA Europa League 2026/27: Juventus vs Rennes - MD3 [22 Oct 2026 23:40 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
