@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jCA4j98TOMFOvD-5P0T8tUuOCkI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391883/8e1301.png" group-title="LIVE NOW",Luca Van Assche vs Lorenzo Musetti - Quarterfinal | ATP 250: Grand Prix Auvergne-Rhone-Alpes Open 2026 (02:33 WIB * 24-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODc2MjQ1fQ.35wZGKWlJ7yBMrQAByD3m_yf3kUX_nlXTWkBPFAjvTs
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uKKQAuk91bjUMcGfr5lE0Scm58I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390724/cbd874.png" group-title="LIVE NOW",Practice 2 - Formula 1 MSC Cruises United States Grand Prix 2026 (03:55 WIB * 24-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=6299&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjYyOTkiLCJleHAiOjE3OTI4NzYyNDV9.UxU5ttOV4ZmuXsluMoLSWZ_MNnOiwsa4Eeb4BxDaGBA
-#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/066/829066-SNAPSHOT-m.jpg" ch-number="1",Formula 1: MSC Cruises United States Grand Prix 2026 - Practice 2 [24 Oct 2026 03:55 WIB]
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=122
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oEJ65xrr8DcrtJZDoa_WI1pmAH0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390728/d90edf.png" group-title="UPCOMING",Moto3 Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (04:35 WIB * 24-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=20886&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg2IiwiZXhwIjoxNzkyODgyMjE5fQ.oZhUv9sqjjWpOet_yna14_SZnYG5nOOKlqsA5DHOI20
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rR93-JZq5RY753gLfPuibKF0H0A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390727/ffb225.png" group-title="LIVE NOW",Moto2 Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:10 WIB * 24-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyODgyMjE5fQ.PMSVz4vxmTwW-lrklsZsX4q-S0yM-bJIvtDtQP-UG5s
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/940/827940-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Free Practice 2 [24 Oct 2026 04:35 WIB]
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qfHCh7i-bCZoaN44tKvjEA2q8e0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390726/c648c7.png" group-title="UPCOMING",MotoGP Qualifying: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:40 WIB * 24-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/066/828066-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 SF [24 Oct 2026 13:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -19,5 +19,5 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/016/828016-SNAPSHOT-m.jpg" ch-number="2",Women's Super League 2026/27: Brighton vs West Ham [24 Oct 2026 23:05 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/940/827940-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Free Practice 2 [24 Oct 2026 04:35 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/434/827434-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Rayo Vallecano vs Elche [24 Oct 2026 18:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
