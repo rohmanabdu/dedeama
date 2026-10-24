@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/e7GYbWpfhUMivcHLSbU_8bTex3s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391819/a69c1e.jpg" group-title="LIVE NOW",Lazio vs Parma - Serie A (01:30 WIB * 25-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTI5NjAwNjh9.LQCQopeylRy5gVoSvSFZz5Ge5C1HllDrll3-C82KTIQ
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/o0i1Wmd30jYrUCdNZ8dKBHPFnJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391099/02a360.jpg" group-title="LIVE NOW",RC Lens vs Paris FC - Ligue 1 (01:40 WIB * 25-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=9182&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjkxODIiLCJleHAiOjE3OTI5NjAwNjh9.0J7OmAUZucOpKAFIrujClXwXlpSAMdsdTnlByoOq9S4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xbMWaPcOMygnSfgNevUqqFOEDDg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393768/088817.jpg" group-title="LIVE NOW",Atletico Madrid vs RC Deportivo - LaLiga (01:55 WIB * 25-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkyOTYwMDY4fQ.HX9vcH_fpJRoZ0ouoeJGCQDQwcUokGaheFWundfcffw
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/abLjS4fdilcrMW4RHI8F-026s70=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392294/5cb41e.jpg" group-title="LIVE NOW",Gil Vicente vs Porto - Liga Portugal (02:20 WIB * 25-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=20502&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwNTAyIiwiZXhwIjoxNzkyOTYwMDY4fQ.ZF9WWa1LaxNTHrAxHhlTmSb9C_ZZw6RXUJiJmisbJF8
-#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/719/828719-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Almeria vs Real Oviedo [25 Oct 2026 01:52 WIB]
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=124
-#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/499/828499-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Atletico Madrid vs Deportivo [25 Oct 2026 01:55 WIB]
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i2Dq4zeA2_JRJkJICmxTUcbz9QU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391914/575cec.png" group-title="UPCOMING",Qualifying - Formula 1 MSC Cruises United States Grand Prix 2026 (03:55 WIB * 25-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hKB7Nh_aqPx1JkPcx1u39Zvl7uE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393763/a919f0.png" group-title="LIVE NOW",MotoGP Warm Up & Rider's Parade: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (05:35 WIB * 25-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTY5MTgxfQ.TTbfJ6lz1wzuCyuGJlVcZqrfkk5gAICXLHGRLSJakMc
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/106/828106-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Warm Up [25 Oct 2026 05:35 WIB]
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="UPCOMING",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:45 WIB * 25-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/087/828087-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 Final [25 Oct 2026 13:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -19,9 +11,11 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/515/829515-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Final [25 Oct 2026 11:30 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/503/828503-SNAPSHOT-m.jpg" ch-number="4",LaLiga 2026/27: Athletic Bilbao vs Getafe [25 Oct 2026 19:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/733/828733-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2 2026/27: Sabadell vs Tenerife [25 Oct 2026 19:52 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/503/828503-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Athletic Bilbao vs Getafe [25 Oct 2026 19:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/388/828388-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: PFC Neftchi (UZB) vs Al Ittihad Club (KSA) [26 Oct 2026 20:40 WIB]
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/106/828106-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Warm Up [25 Oct 2026 05:35 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
