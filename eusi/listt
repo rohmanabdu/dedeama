@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="LIVE NOW",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (06:45 WIB * 25-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=17140&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwIiwiZXhwIjoxNzkyOTcyNTc4fQ.uHfZlKreVY3l8p3HOHJoapxwAoxta4mI9nro1CPpjHI
-#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/124/828124-SNAPSHOT-m.jpg" ch-number="1",Moto3: Grand Prix of Australia - Race [25 Oct 2026 06:45 WIB]
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rFN-9HEXctEJv8p6tkZ7zqMhKok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393770/e91f80.png" group-title="LIVE NOW",Round 4 - BMW Ladies Championship 2026 (09:00 WIB * 25-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg0MDcyfQ.do2kWpVnXuuwa0aYNmHJDEEVVxgk2TlJnvLuIvQi72s
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/151/828151-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Race [25 Oct 2026 09:15 WIB]
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fd_7EG-yhQYH48iN9Wzv0_hG6xE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393767/6b0071.png" group-title="UPCOMING",Game 2: Tampa Bay Rays vs Milwaukee Brewers - World Series Major League Baseball (07:00 WIB * 25-10-2026) - BG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gd8Kb29H6lvj8ywJoz7Ooz1yphc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png" group-title="UPCOMING",Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18 (11:00 WIB * 25-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/087/828087-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 Final [25 Oct 2026 13:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
