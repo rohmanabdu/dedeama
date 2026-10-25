@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/rFN-9HEXctEJv8p6tkZ7zqMhKok=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393770/e91f80.png" group-title="LIVE NOW",Round 4 - BMW Ladies Championship 2026 (09:00 WIB * 25-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=18190&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4MTkwIiwiZXhwIjoxNzkyOTg2ODMxfQ.EXDmUQwIQhUiz5QLfm8VbTsBYPR28rZgJQwpMOE10Xo
-#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/151/828151-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Grand Prix of Australia - Race [25 Oct 2026 09:15 WIB]
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KNoSyuIsoDw5c5qh59S7U_CNP84=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393885/bf125e.png" group-title="UPCOMING",Final - WTA 250: Kinoshita Group Japan Open 2026 (11:30 WIB * 25-10-2026) - BG
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/087/828087-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 Final [25 Oct 2026 13:00 WIB]
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/k5hAFY1h4ZrTX1w3WU1HVYlQAY8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399983/a814f3.png" group-title="LIVE NOW",Day 7 - Kejurnas Tinju Piala Menko IPK 2026 (13:30 WIB * 25-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=22641&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyNjQxIiwiZXhwIjoxNzkzMDA0Nzg1fQ.X_6XCCJUIW9W_7KYrAjXmH5_0LYmTbbzwzphSBCQBi4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/eWF_EahegLU-9VTIXkGq_yiey_4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392295/7db016.jpg" group-title="LIVE NOW",Arema FC vs Dewa United Banten FC - BRI Super League (14:57 WIB * 25-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=22207&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA3IiwiZXhwIjoxNzkzMDA0Nzg1fQ.HQCYLq4wcKLfMYy6JAGUPbbNXXTFzlVhPEW4hOtDyDI
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5xXN6Fjy7411go4aeB9sLLozYlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392298/cee6f7.jpg" group-title="LIVE NOW",PERSELA Lamongan vs De Red FC - Pegadaian Championship (15:22 WIB * 25-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=22261&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjYxIiwiZXhwIjoxNzkzMDA0Nzg1fQ.BRma8X6v0hRDC6772dockJQh_vu8sH6tmWLBTevVCTQ
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Z3MioiIj0-gcN5k0u-OasjOtNjo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392297/abd868.jpg" group-title="LIVE NOW",PERSITA vs Bali United FC - BRI Super League (15:22 WIB * 25-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=22206&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIyMjA2IiwiZXhwIjoxNzkzMDA0Nzg1fQ.woC90zHmaC2AvT7JTiTq9od8siVcbBNB1-vzLLzQiQo
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/087/828087-SNAPSHOT-m.jpg" ch-number="1",Polytron Kudus Indonesia Masters S100 Final [25 Oct 2026 13:00 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=1002
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/abk3l-X2IAUdTZ6R_UFanaCXdWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393879/66d381.jpg" group-title="UPCOMING",Elena Rybakina vs Leylah Fernandez - Final | WTA 500: BNB Ningbo Open 2026 (16:00 WIB * 25-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/515/829515-SNAPSHOT-m.jpg" ch-number="1",Men's NH Cup 2026/27: Final [25 Oct 2026 11:30 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/548/828548-SNAPSHOT-m.jpg" ch-number="1",Women's Super League 2026/27: Crystal Palace vs Chelsea [25 Oct 2026 18:50 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
@@ -18,4 +20,6 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/503/828503-SNAPSHOT-m.jpg" ch-number="2",LaLiga 2026/27: Athletic Bilbao vs Getafe [25 Oct 2026 19:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/388/828388-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: PFC Neftchi (UZB) vs Al Ittihad Club (KSA) [26 Oct 2026 20:40 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/811/828811-SNAPSHOT-m.jpg" ch-number="6",AFC Champions League Elite 2026/27: Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) [27 Oct 2026 01:15 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
