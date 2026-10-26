@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J_IrbsJU66NLs7gLfrb_lNnv9es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399770/06ffdb.png" group-title="UPCOMING",Kuwait Major Premier Padel 2026 - Day 2 (16:00 WIB * 26-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/J_IrbsJU66NLs7gLfrb_lNnv9es=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399770/06ffdb.png" group-title="LIVE NOW",Kuwait Major Premier Padel 2026 - Day 2 (16:00 WIB * 26-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=17875&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3ODc1IiwiZXhwIjoxNzkzMDkzNjgyfQ._BetbZQ-R-vMQdw--aO5AZ168JPhSdOaAdXvl2IIh6I
+#EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/562/828562-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 2 [26 Oct 2026 16:00 WIB]
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N8UzgYyz1ixwwKDJoB7_REaSPI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401038/90a86f.jpg" group-title="UPCOMING",Jakub Paul/Matej Vocel vs Alex Michelsen/Botic van de Zandschulp - Round 1 (IWB Court 1) | ATP 500: Swiss Indoors Basel 2026 (18:00 WIB * 26-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
-https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/388/828388-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: PFC Neftchi (UZB) vs Al Ittihad Club (KSA) [26 Oct 2026 20:40 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/811/828811-SNAPSHOT-m.jpg" ch-number="6",AFC Champions League Elite 2026/27: Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) [27 Oct 2026 01:15 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/811/828811-SNAPSHOT-m.jpg" ch-number="5",AFC Champions League Elite 2026/27: Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) [27 Oct 2026 01:15 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/562/828562-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 2 [26 Oct 2026 16:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/887/828887-SNAPSHOT-m.jpg" ch-number="1",LaLiga 2026/27: Sevilla vs Osasuna [27 Oct 2026 02:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
