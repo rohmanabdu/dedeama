@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/906/828906-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 3 [27 Oct 2026 16:00 WIB]
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMjMiLCJpYXQiOjE3OTMxMTM5ODQsIm5iZiI6MTc5MzExMzk4NCwiZXhwIjoxNzkzMTM1NTg0fQ.J5BSb3QdH9n5A47bvrdQT9wxRhWXAt1-3wdcB1RLF3g
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMjMiLCJpYXQiOjE3OTMxMTU2MTAsIm5iZiI6MTc5MzExNTYxMCwiZXhwIjoxNzkzMTM3MjEwfQ.hBSbuYG8UdkxHuaDiniDrLmA8R8XAOeKxuBG2V7wZZA
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
@@ -9,9 +9,19 @@ https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/859/830859-SNAPSHOT-m.jpg" ch-number="7",AFC Champions League Two 2026/27: Al Jazira Club (UAE) vs Al Muharraq SC (BHR) [28 Oct 2026 22:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/874/828874-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shabab Al Ahli (UAE) vs Esteghlal FC (IRN) [27 Oct 2026 23:00 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/707/829707-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Elite 2026/27: Al Shamal SC (QAT) vs Al Hilal SFC (KSA) [28 Oct 2026 01:15 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/515/830515-SNAPSHOT-m.jpg" ch-number="1",UEFA Women's Champions League 2026/27: Chelsea vs Roma [29 Oct 2026 00:40 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/550/830550-SNAPSHOT-m.jpg" ch-number="3",UEFA Women's Champions League 2026/27: Servette vs OH Leuven [29 Oct 2026 00:40 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/554/830554-SNAPSHOT-m.jpg" ch-number="4",UEFA Women's Champions League 2026/27: Bayern vs Real Madrid [29 Oct 2026 00:40 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/245/830245-SNAPSHOT-m.jpg" ch-number="5",Premier Padel 2026: Kuwait Major - Men's Semifinals [31 Oct 2026 00:00 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/982/829982-SNAPSHOT-m.jpg" ch-number="1",MotoGP: Petronas Grand Prix of Malaysia - Free Practice 1 [30 Oct 2026 07:55 WIB]
+https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/933/829933-SNAPSHOT-m.jpg" ch-number="1",DFB Pokal 2026: Hamburger SV vs Eintrach Frankfurt [27 Oct 2026 23:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
