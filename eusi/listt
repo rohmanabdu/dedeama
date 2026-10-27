@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/L-j9-ZlYy63fkJOEo0xBPHcPguU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5401037/4fc4cb.jpg" group-title="LIVE NOW",Dominic Stricker vs Casper Ruud - Round 1 | ATP 500: Swiss Indoors Basel 2026 (02:00 WIB * 27-10-2026) - BG
-https://vidkon.biz.id/post.mpd?id=20884&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIwODg0IiwiZXhwIjoxNzkzMTM5MDU5fQ.v4sEnCjnwL6wLmIGAT1kt4GPX98yIziG6AkA-A3wou4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p8PNTfEAdE3OBScef77iauFyaXs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400896/547551.jpg" group-title="UPCOMING",Dallas Cowboys vs Philadelphia Eagles - NFL (07:05 WIB * 27-10-2026) - BG
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/p8PNTfEAdE3OBScef77iauFyaXs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400896/547551.jpg" group-title="LIVE NOW",Dallas Cowboys vs Philadelphia Eagles - NFL (07:05 WIB * 27-10-2026) - BG
+https://vidkon.biz.id/post.mpd?id=6786&type=dash&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY3ODYiLCJleHAiOjE3OTMxNDY2MDV9.gs4JR46oM7zeGMPmLap__ajDF4vdUAnHzG4KGwww-Lw
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9fgZF-oUBUXUAgVWRCh79zDAyG0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403301/12b55f.png" group-title="UPCOMING",Day 2 - WTA 500: Toray Pan Pacific Open Tennis 2026 (08:30 WIB * 27-10-2026) - BG
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
