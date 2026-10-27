@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Vision+" group-title="LIVE NOW" tvg-logo="https://www.visionplus.id/images/repository/906/828906-SNAPSHOT-m.jpg" ch-number="1",Premier Padel 2026: Kuwait Major - Day 3 [27 Oct 2026 16:00 WIB]
-https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123
+https://bandeltv.xyz/sc1980/2025/Kvision/mpd.php/.mpd?id=123&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2JhbmRlbHR2Lnh5eiIsImF1ZCI6Imt2aXNpb24iLCJzdWIiOiIxMjMiLCJpYXQiOjE3OTMxMTM5ODQsIm5iZiI6MTc5MzExMzk4NCwiZXhwIjoxNzkzMTM1NTg0fQ.J5BSb3QdH9n5A47bvrdQT9wxRhWXAt1-3wdcB1RLF3g
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/088/827088-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Two 2026/27: Al Seeb Club (OMA) vs East Bengal FC (IND) [27 Oct 2026 23:00 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/133/829133-SNAPSHOT-m.jpg" ch-number="2",AFC Champions League Two 2026/27: PERSIB Bandung (IDN) vs Melbourne Victory FC (AUS) [28 Oct 2026 18:45 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/818/828818-SNAPSHOT-m.jpg" ch-number="1",AFC Champions League Elite 2026/27: Shanghai Port FC (CHN) vs Cong An Ha Noi FC (VIE) [27 Oct 2026 16:55 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/690/830690-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Two 2026/27: Al Shorta (IRQ) vs Al Hussein (JOR) [28 Oct 2026 01:15 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
-#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/847/828847-SNAPSHOT-m.jpg" ch-number="3",AFC Champions League Elite 2026/27: Daejeon Hanacitizen (KOR) vs Vissel Kobe (JPN) [27 Oct 2026 17:00 WIB]
+#EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/859/830859-SNAPSHOT-m.jpg" ch-number="7",AFC Champions League Two 2026/27: Al Jazira Club (UAE) vs Al Muharraq SC (BHR) [28 Oct 2026 22:55 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
 #EXTINF:-1 tvg-id="Vision+" group-title="UPCOMING" tvg-logo="https://www.visionplus.id/images/repository/515/830515-SNAPSHOT-m.jpg" ch-number="1",UEFA Women's Champions League 2026/27: Chelsea vs Roma [29 Oct 2026 00:40 WIB]
 https://raw.githubusercontent.com/rohmanabdu/cloudd/main/upcoming.mp4
